@@ -1,2 +1,3 @@
 # new-repos
-Ferst repository
+First repository
+`I love 💻, :pizza: and :tea:
