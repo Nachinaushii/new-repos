@@ -1,3 +1,4 @@
 # new-repos
 First repository
-`I love 💻, :pizza: and :tea:
+
+I love 💻, :pizza: and :tea:
